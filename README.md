@@ -5,6 +5,7 @@ This project demonstrates the use of Massive.js with a PostgreSQL database to pe
 ## Prerequisites
 
 - Node.js
+- Express Server
 - PostgreSQL
 
 ## Getting Started
